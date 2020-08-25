@@ -6,5 +6,5 @@
 
 # Capstone Project
 
-This capstone project intends to apply the the knowledge acquired in the Course of Data science.
+This capstone project consists of a case study which is to predict the severity of an accident, should it occur.
 
