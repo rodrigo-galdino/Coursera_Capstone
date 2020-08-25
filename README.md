@@ -6,5 +6,5 @@
 
 # Capstone Project
 
-This capstone project consists of a case study which is to predict the severity of an accident, should it occur.
+This is the capstone project for Data Science Certificate Program.
 
