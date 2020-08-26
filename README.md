@@ -29,4 +29,4 @@ The main variables that will be used to construct the model are given below:
 | ROADCOND     | The condition of the road during the collision.                              |
 | LOCATION     | The geographical area where the collision took place.                        |
 
-__For more details__, please consult the following link: [Data Set Summary](https://www.seattle.gov/Documents/Departments/SDOT/GIS/Collisions_OD.pdf)
+__For more details on the data used__, please consult the following link: [Data Set Summary](https://www.seattle.gov/Documents/Departments/SDOT/GIS/Collisions_OD.pdf)
