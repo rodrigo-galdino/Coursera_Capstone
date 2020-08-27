@@ -6,6 +6,8 @@
 
 # Capstone Project - Seattle City Vehicle Collision Data Analysis 
 
+This is the capstone project for Data Science Certificate Program.
+
 ## Section 1: Introduction/Business Problem section
 
 Under this project with the given set of data, I decided to build a model to predict if a collision with injuries will occur or not based on the weather and road conditions and determining the most susceptible areas.
